@@ -33,7 +33,7 @@
 			<key>metadata</key>
 			<dict>
 				<key>bundle-identifier</key>
-				<string>com.yonyou.uap.mobile</string>
+				<string>com.yonyou.mtapp</string>
 				<key>bundle-version</key>
 				<string>1.0</string>
 				<key>kind</key>
@@ -41,7 +41,7 @@
 				<key>subtitle</key>
 				<string></string>
 				<key>title</key>
-				<string>统一</string>
+				<string>茅台APP</string>
 			</dict>
 		</dict>
 	</array>
